@@ -15,3 +15,36 @@ Vodafone Italy is at the forefront of telecom innovation in Europe, with large-s
 - Support Vodafone’s commitment to high-quality, reliable telecom services.
 
 - Create Test Plan
+
+# Methodology
+
+ - Test Automation: Leveraged automated testing frameworks integrated into Vodafone’s CI/CD pipeline for regression and performance testing.
+
+- Manual Testing: Conducted exploratory and scenario-based testing for complex user workflows.
+
+- Collaboration: Worked in cross-functional teams, using JIRA for defect tracking and Agile methodologies for iterative feedback.
+
+- Continuous Integration: Automated tests were triggered with each code commit, enabling rapid feedback and reducing manual effort.
+
+ # Technologies Used
+
+Test Tools: Selenium, Postman
+
+CI/CD: Jenkins, GitLab CI
+
+Defect Tracking: JIRA
+
+Collaboration: Confluence
+
+# Results & Metrics
+
+Defects Identified : 
+
+- 45 critical/major defects detected and resolved during UAT.
+
+- Test Coverage: Achieved 95% test coverage for core user journeys.
+
+- Go-Live Success: Zero critical issues reported post-production launch.
+
+- Process Improvement: Recommendations led to enhanced test case design and faster defect resolution cycles.
+
