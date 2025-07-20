@@ -1,1 +1,2 @@
 # Vodafone-Italy---User-Acceptance-Testing
+This project involved User Acceptance Testing (UAT) for Vodafone Italy, focusing on validating new features and system integrations prior to production release. As a control room lead of the self service and retail channel, I collaborated with developers, business analysts, and end-users to ensure the solutions met Vodafone’s quality standards and business requirements.
