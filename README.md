@@ -1,4 +1,5 @@
-# Vodafone-Italy---User-Acceptance-Testing
+# Amdocs Multimillion Dollar Client
+# Vodafone-Italy---User-Acceptance-Testing 
 This project involved User Acceptance Testing (UAT) for Vodafone Italy, focusing on validating new features and system integrations prior to production release. As a control room lead of the self service and retail channel, I collaborated with developers, business analysts, and end-users to ensure the solutions met Vodafone’s quality standards and business requirements.
 
 # Background
@@ -15,6 +16,8 @@ Vodafone Italy is at the forefront of telecom innovation in Europe, with large-s
 - Support Vodafone’s commitment to high-quality, reliable telecom services.
 
 - Create Test Plan
+
+- Support Testing in Italian Language 
 
 # Methodology
 
@@ -38,6 +41,9 @@ Collaboration: Confluence
 
 # Vodafone Italy's Website in Production 
 https://innovaction.vodafone.it/en/innovaction.php
+
+# Public Case Study on Vodafone Italy's Testing
+https://sqa.bg/case-studies/vodafone-italy/
 
 # Results & Metrics
 
@@ -64,5 +70,7 @@ Defects Identified :
 - Stakeholder Engagement: Close collaboration with business users ensured tests reflected real-world scenarios.
 
 - Continuous Learning: Staying updated with Vodafone’s evolving tech stack (5G, IoT) was essential for effective testing.
+
+- Created a grasp on Italian language to provide best of quality standards for the project
 
 
