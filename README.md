@@ -47,7 +47,6 @@ https://sqa.bg/case-studies/vodafone-italy/
 
 # Results & Metrics
 
-Defects Identified : 
 
 - 45 critical/major defects detected and resolved during UAT.
 
@@ -56,6 +55,8 @@ Defects Identified :
 - Go-Live Success: Zero critical issues reported post-production launch.
 
 - Process Improvement: Recommendations led to enhanced test case design and faster defect resolution cycles.
+
+- Saved Amdocs Revenue by being a channel for ensuring only relevant Change Request are opened. 
 
 # Challenges
 
