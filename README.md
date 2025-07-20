@@ -48,3 +48,18 @@ Defects Identified :
 
 - Process Improvement: Recommendations led to enhanced test case design and faster defect resolution cycles.
 
+# Challenges
+
+- Complex Integrations: Testing across mobile, fiber, and IoT platforms required robust test environments and careful coordination.
+
+- Device Diversity: Ensured compatibility across a wide range of devices and network configurations.
+
+# Lessons Learned
+
+- Automation is Key: Automated regression suites significantly reduced manual effort and improved release confidence.
+
+- Stakeholder Engagement: Close collaboration with business users ensured tests reflected real-world scenarios.
+
+- Continuous Learning: Staying updated with Vodafone’s evolving tech stack (5G, IoT) was essential for effective testing.
+
+
